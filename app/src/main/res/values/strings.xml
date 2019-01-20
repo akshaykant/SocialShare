@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SocialShare</string>
+    <string name="logo">logo</string>
+    <string name="connect_with_google">Connect With Google</string>
+    <string name="connect_with_facebook">Connect With Facebook</string>
+
+</resources>

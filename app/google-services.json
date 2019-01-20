@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "281182889648",
+    "firebase_url": "https://socialshare-6e4b8.firebaseio.com",
+    "project_id": "socialshare-6e4b8",
+    "storage_bucket": "socialshare-6e4b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281182889648:android:0d10098ee77ef5e4",
+        "android_client_info": {
+          "package_name": "com.visahack.socialshare.socialshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281182889648-beu129eatmgkib857u2uaalvtihkibkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRklcTbQBmJSRSYWic3uzISJLMzD2oPu8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
